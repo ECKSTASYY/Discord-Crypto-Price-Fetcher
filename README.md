@@ -14,7 +14,8 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://github.com/ECKSTASYY/Discord-Crypto-Price-Fetcher/blob/main/images/example.png)
+![screenshot](https://github.com/ECKSTASYY/Discord-Crypto-Price-Fetcher/blob/main/images/news.png)
 
 ## How To Use
 
