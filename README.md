@@ -21,6 +21,7 @@
 # Commands 
 
 > **$news**  - to get a random News Article Related To Crypto (See Above)
+
 > **$find {Coin}**  - to find the crypto Statistics. (See Above)
 
 
