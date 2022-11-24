@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="#how-to-use">How To Use</a> •
+  <a href="#Commands">Commands</a> •
   <a href="#support">Support</a> •
   <a href="#license">License</a>
 </p>
@@ -18,7 +19,7 @@
 ![screenshot](https://github.com/ECKSTASYY/Discord-Crypto-Price-Fetcher/blob/main/images/news.png)
 
 
-# Commands 
+## Commands 
 
 > **$news**  - to get a random News Article Related To Crypto (See Above)
 
