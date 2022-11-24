@@ -24,6 +24,10 @@
 > Update The Keys/Token in the JSON File.
 > Run and Enjoy.
 
+
+> **$news**  - to get a random News Article Related To Crypto (See Above)
+> **$find {Coin}**  - to find the crypto Statistics. (See Above)
+
 > **If you plan to run on server make sure to use .env file instead for security reasons.**
 
 
