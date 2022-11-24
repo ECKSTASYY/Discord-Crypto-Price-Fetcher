@@ -29,8 +29,6 @@
 
 > Update The Keys/Token in the JSON File
 > Run and Enjoy
-
-> **Note**
 > (If you plan to run on server make sure to use .env file instead for security reasons.)
 
 
