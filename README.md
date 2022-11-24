@@ -18,9 +18,12 @@
 
 ## How To Use
 
-> Update The Keys/Token in the JSON File
-> Run and Enjoy
-> (If you plan to run on server make sure to use .env file instead for security reasons.)
+> Clone Repo and CD Into the Folder.
+> Run `pip install -r requirements.txt` to install dependencies.
+> Update The Keys/Token in the JSON File.
+> Run and Enjoy.
+
+> **If you plan to run on server make sure to use .env file instead for security reasons.**
 
 
 
