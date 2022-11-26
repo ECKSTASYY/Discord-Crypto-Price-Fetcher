@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center">A Python Discord Bot that automates the finding of crypto Statistics.</a>.</h4>
+<h4 align="center">A Python Discord Bot that automates the finding of crypto Statistics. Works With All Coins On https://coinmarketcap.com/coins/ </a>.</h4>
 
 
 <p align="center">
