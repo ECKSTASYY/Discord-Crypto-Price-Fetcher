@@ -42,7 +42,7 @@
 
 ## Support
 
-<p>Just Star My Shit, Im Chasin Badges.</p> 
+<p>Just Star My Shit, Im Chasin Achievements.</p> 
 <p>Also Just Reach Out If You Need more help, Im always happy to help.</p> 
 
 </a>
