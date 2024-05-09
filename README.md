@@ -38,20 +38,6 @@
 
 > **If you plan to run on server make sure to use .env file instead for security reasons.**
 
-
-
-## Support
-
-<p>Just Star My Shit, Im Chasin Achievements.</p> 
-<p>Also Just Reach Out If You Need more help, Im always happy to help.</p> 
-
-</a>
-
-
-## License
-
-MIT
-
 ---
 
 > [ECKSTASY.COM](https://eckstasy.com) &nbsp;&middot;&nbsp;
